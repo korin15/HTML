@@ -1,0 +1,129 @@
+.subtitle, .post_title {
+    color: #505050;
+}
+
+#title{
+    font-style: normal;
+    margin: 0;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{text-decoration: underline;
+    color: #505050;
+
+}
+.subtitle{
+    font-size: 30px;
+    font-style: normal;
+    margin: 0;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    color: black;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.post_title{
+    font-size: 25;
+    font-style: normal;
+    padding: 0;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+body{
+    background: #f7f7f7;
+    font-family: verdana;   
+    text-transform: capitalize;
+    margin: auto;
+    width: 900px;
+}
+
+.post{
+    background: blanchedalmond;
+    padding: 15px;
+    border: 3px solid #505050;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 5px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+
+.foto{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 880px;
+    height: 400px;
+    margin: 15px;
+}
+
+.texto{
+    margin-left: 15px;
+    margin-bottom: 10px;
+    color: #505050;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+.imagem{
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 370px;
+    height: 250px;
+    margin: 25px;
+}
+
+.imagem2{
+    border-radius: 5px;
+    width: 370px;
+    height: 250px;
+    margin: 25px;
+
+}
+
+
+
+
+.imagem3{
+    margin-left: 235px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 800px;
+    height: 400px;
+    margin: 25px;
+}
+
+.imagem4{
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 800px;
+    height: 400px;
+    margin: 25px;
+}
+.lista{
+    margin-left: 15px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+.lista2{
+    color: black;
+}
+
+ul{
+    list-style-type: square;
+    color: rgba(2, 2, 197, 0.801);
+    padding: 0px;
+    margin-left: 30px;
+}
